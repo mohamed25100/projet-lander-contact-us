@@ -18,3 +18,21 @@ Traduire la maquette en code HTML et CSS en respectant les consignes suivantes :
 Utiliser les balises sémantiques de l'HTML5 (header, main, footer, nav...);
 Implémenter la bibliothèque Font Awesome pour l'incorporation des différentes icones des réseaux sociaux;
 Appliquer un effet de survol sur les boutons;
+
+
+# liens :
+- [version gitlab !](https://gitlab.com/nfr.mo.boucherba/projet-lander-contact-us)
+- [derniere version github !!!](https://github.com/mohamed25100/projet-lander-contact-us)
+
+# guide :
+- page principale: [cliquez ici](http://localhost:5500/index.html)
+- wireframes && maquettes : dossier visuel
+
+## projet simplon
+- [projet portfolio](https://github.com/mohamed25100/mon-portfolio)
+- [projet  lander contact us](https://github.com/mohamed25100/projet-lander-contact-us)
+
+## projet simplon en ligne
+- [projet  lander contact us](https://mohamed-boucherba.fr/projet-lander-contact-us)
+#
+&copy;Mohamed
